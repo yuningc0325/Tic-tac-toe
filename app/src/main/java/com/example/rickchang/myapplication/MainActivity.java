@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     //switch
     public boolean gameSwitch=true;
-    // 0 means that the status is for cross, 1 for cricle.
+    // 0 means cross, 1 for cricle.
     public int playerStatus =0;
     // 2 means unplayed
     public int[] gamestate={2,2,2,2,2,2,2,2,2};
